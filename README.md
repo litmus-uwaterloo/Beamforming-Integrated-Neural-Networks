@@ -1,4 +1,4 @@
-# Beamforming-Integrated-Neural-Networks
+# Beamforming Integrated Neural Networks
 
 This repository contains simplified sample code for a beamforming-integrated neural network.
 
