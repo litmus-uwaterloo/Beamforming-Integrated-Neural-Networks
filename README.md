@@ -4,8 +4,8 @@ This repository contains simplified sample code for a beamforming-integrated neu
 
 # Citation
 
-If you use any code or data from this repository, please cite the associated [paper](/link) from _Ultrasonics_
-> D. Xiao, A. C. H. Yu, "Beamforming-integrated neural networks for ultrasound imaging", _Ultrason._. doi: .
+If you use any code or data from this repository, please cite the associated [paper](https://doi.org/10.1016/j.ultras.2024.107474) from _Ultrasonics_
+> D. Xiao, A. C. H. Yu, "Beamforming-integrated neural networks for ultrasound imaging", _Ultrasonics_, vol. 145, pp. 107474, 2025, doi: 10.1016/j.ultras.2024.107474.
 
 # Code Sample and Data
 NOTE AS OF OCT 3, 2024: THE SCRIPTS WILL BE UPLOADED SHORTLY, PLEASE CHECK BACK AGAIN IN A FEW DAYS
