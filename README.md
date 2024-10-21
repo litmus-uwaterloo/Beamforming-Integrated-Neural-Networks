@@ -10,7 +10,7 @@ If you use any code or data from this repository, please cite the associated [pa
 # Code Sample and Data
 NOTE AS OF OCT 21, 2024: We apologize for the delay in uploading the sample code. Initial code has now been uploaded.
 
-The repository contains one [TensorFlow script](/example_TensorFlow.m) and one [PyTorch script](/example_PyTorch.m) containing the entirety of each example, alongside [shared data](/Data) to run sample training and inference steps. Please <ins>first</ins> run [gen_sparse_matrix.m](/gen_sparse_matrix.m) to generate the both sparse beamforming matrix and the training data. This script gives a simple example of how to generate a sparse matrix according to the desired beamforming parameters. Then run either script for a demonstration of the toy beamforming-integrated neural network architecture found in the corresponding paper.
+The repository contains one [TensorFlow script](/example_TensorFlow.py) and one [PyTorch script](/example_PyTorch.py) containing the entirety of each example, alongside [shared data](/Data) to run sample training and inference steps. Please <ins>first</ins> run [gen_sparse_matrix.m](/gen_sparse_matrix.m) to generate the both sparse beamforming matrix and the training data. This script gives a simple example of how to generate a sparse matrix according to the desired beamforming parameters. Then run either script for a demonstration of the toy beamforming-integrated neural network architecture found in the corresponding paper.
 
 These scripts have been tested using Tensorflow ver. 2.10.1, PyTorch ver. 2.0.0, and CUDA v11.2.
 
