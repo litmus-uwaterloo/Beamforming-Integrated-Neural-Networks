@@ -141,7 +141,7 @@ for epoch in range(10000):
         #print statistics
         running_loss += loss.item()
 
-    print(f'Epoch {epoch + 1} loss: {running_loss:.4f}')
+    print(f'Epoch {epoch + 1} loss: {running_loss:.4e}')
 
 print('Finished Training')
 
